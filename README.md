@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Mohammad AlOrfali</h1>
 <h3 align="center">A passionate software engineer and full-stack web developer from Syria.</h3>
 
-- 🔭 I’m currently working on **Harek99 (an E-commerce platform for Retailers)**
+- 🔭 I’m currently working on a project called **Harek99 (an E-commerce platform for Retailers)**
 
-- 👯 I’m also working on **A classified app (it is belong to the company that I work for)**
+- 👯 I’m also working on **A classified app belongs to the company that I work for**
  
-- 🌱 I’m currently learning **more about Vue**
+- 🌱 I’m currently learning **Vue js**
 
 - 👨‍💻 All of my projects are available at [www.m-alorfali.com/projects](www.m-alorfali.com/projects)
 
